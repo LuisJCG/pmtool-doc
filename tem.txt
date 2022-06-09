@@ -1,0 +1,28 @@
+autor:	Luis Javier Curbeira García
+consultor:	Gregorio Robles Martínez
+PRA:	Santi Caballe Llobet
+
+
+Sistema de gestión de proyectos Scrum
+
+presentacion nombre y aplicacoin 
+
+motivacion
+
+descriptcion funcionalidad, gestion proyectos, scrum
+
+objetivos planteados al principio
+
+descripcion de las fases
+
+stack tecnologico beneficos
+
+front end
+
+backend
+
+funcionalidad por pantallas
+
+futuro
+
+conclusiones
